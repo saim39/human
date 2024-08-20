@@ -8,7 +8,7 @@ const page = () => {
      <div className="pt-6 md:p-8 text-center space-y-4">
        <blockquote>
          <p className="text-lg font-medium">
-           “My name is Muhammad Saim Umer and I am from jhang.I want to be a good human.My pasttime is reading books .
+           “My name is Muhammad Saim Umer and I am from jhang.I want to be a good human.My pasttime is reading books.i also love cricket .
          </p>
        </blockquote>
        <figcaption className="font-medium">
